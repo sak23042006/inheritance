@@ -1,5 +1,13 @@
 /* Properties which are inherited by the child element*/
 
-
+body {
+  font-size: xx-large;
+  color: tomato;
+  text-decoration: underline;
+}
 
 /* Properties which are not inherited by the child element */
+
+body {
+  border: 3px solid black;
+}
